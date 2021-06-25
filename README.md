@@ -1,3 +1,3 @@
 Practiva evaluativa individual - BASE DE DATOS
 
-Diagrama de Entidad Relacion 
+Diagrama de Entidad Relacion. 
